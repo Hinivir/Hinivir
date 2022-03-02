@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-![](https://github.com/Hinivir/github-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/Hinivir/github-stats/blob/master/generated/languages.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinivir&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
